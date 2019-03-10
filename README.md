@@ -1,9 +1,4 @@
-# Java 学习/面试指南
-
-<div align="center">  
-<img src="http://my-blog-to-use.oss-cn-beijing.aliyuncs.com/18-11-16/49833984.jpg" width=""/>
-</br>
-</div>
+# 学习/面试指南
 
 
 ## 目录
